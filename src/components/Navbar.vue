@@ -10,5 +10,4 @@
 </template>
 
 <script setup>
-// componente simples de navegação
 </script>

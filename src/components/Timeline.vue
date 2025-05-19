@@ -21,7 +21,6 @@
 <script setup>
 import { ref } from 'vue'
 
-// Baseado no seu currículo:
 const timeline = ref([
   {
     date: '2022',
